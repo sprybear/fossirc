@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
-Preferred format: Category - Title - URL
+Category: 
 
-Example: Timeline - 0xnodeirc adds new node - https://website-url.tld
+Title: 
+
+URL: 
