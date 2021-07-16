@@ -1,6 +1,6 @@
 # FOSSIRC
 
-A collection of timeline-based news and interesting topics petaining to the FOSS-centric networks and community who utilizes Internet Relay Chat protocol. The objective, intended for better bookkeeping and journalistic purposes. Feel free to explore and contribute!
+A collection of timeline-based news and interesting topics petaining to FOSS-centric networks and community who utilizes Internet Relay Chat protocol. The objective, intended for better bookkeeping and journalistic purposes. Feel free to explore and contribute!
 
 ## News
 - [One month of Libera Chat](https://libera.chat/news/one-month-of-libera-chat) &mdash; Libera Chat
@@ -149,6 +149,14 @@ A collection of timeline-based news and interesting topics petaining to the FOSS
 #### April 2017
 - [PIA and freenode joining forces](https://freenode.net/news/pia-fn) &mdash; Christel Dahlskjaer (christel)
 
+#### 2002
+- [LinPeople / Open Projects Net (OPN) changed the name to Freenode and Peer-Directed Projects Center (PDPC) was founded to support Freenode](https://en.wikipedia.org/wiki/Freenode#History)
+
+#### 1998
+- [irc.linpeople.org changed to Open Projects Net (OPN)](https://en.wikipedia.org/wiki/Freenode#History)
+
+#### 1995
+- [IRC was founded as irc.linpeople.org](https://en.wikipedia.org/wiki/Freenode#History)
 
 ## FAQ
 <details>
