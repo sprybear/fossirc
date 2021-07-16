@@ -150,13 +150,14 @@ A collection of timeline-based news and interesting topics petaining to FOSS-cen
 - [PIA and freenode joining forces](https://freenode.net/news/pia-fn) &mdash; Christel Dahlskjaer (christel)
 
 #### 2002
-- [LinPeople / Open Projects Net (OPN) changed the name to Freenode and Peer-Directed Projects Center (PDPC) was founded to support Freenode](https://en.wikipedia.org/wiki/Freenode#History)
+- [LinPeople / Open Projects Net (OPN) changed the name to Freenode and Peer-Directed Projects Center (PDPC) was founded](https://en.wikipedia.org/wiki/Freenode#History) &mdash; Wikipedia
+- [Peer-Directed Projects Center](https://web.archive.org/web/20130218193455/http://freenode.net/pdpc.shtml) &mdash; Freenode.net (Web Archive)
 
 #### 1998
-- [irc.linpeople.org changed to Open Projects Net (OPN)](https://en.wikipedia.org/wiki/Freenode#History)
+- [irc.linpeople.org changed to Open Projects Net (OPN)](https://en.wikipedia.org/wiki/Freenode#History) &mdash; Wikipedia
 
 #### 1995
-- [IRC was founded as irc.linpeople.org](https://en.wikipedia.org/wiki/Freenode#History)
+- [IRC was founded as irc.linpeople.org](https://en.wikipedia.org/wiki/Freenode#History) &mdash; Wikipedia
 
 ## FAQ
 <details>
